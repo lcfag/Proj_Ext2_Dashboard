@@ -2,7 +2,7 @@
 
 ### Sobre
 Este repositório contém um Dataset e um Dashboard em Microsoft Excel de uma empresa especializada na comercialização de produtos de Granito e Solid Surface. O projeto inclui consultas para responder questões relacionadas sobre os dados coletados através das vendas realizadas pela empresa. 
-Este repositório faz do projeto de extensão do curso de Ciências de dados da Descomplica Faculdade Digital.
+Este repositório faz parte do projeto de extensão do curso de Ciências de dados da Descomplica Faculdade Digital.
 
 ### Microsoft Excel:  Stone & Solid Surface Sales Analysis
 #### Descrição
